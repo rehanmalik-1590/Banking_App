@@ -1,0 +1,24 @@
+
+
+*************************************************************************
+
+This is a simple Java project designed for portfolio practice.
+
+Step_1: Open the project using either IntelliJ IDEA or Visual Studio Code.​
+
+Step_2: Click the Run or Play button to execute the project.​
+Visual Studio Code
+
+Step_3: The output will be displayed in the console window within the IDE, not on a separate page.​
+
+Step_4: Please watch the accompanying video, where I demonstrate how to provide input and view the output.
+
+
+
+
+*****************************************************************
+
+Support and Contributions
+If you find these projects helpful, please consider subscribing to my YouTube channel. Your support motivates me to create more valuable content.​
+
+If you need a specific project or have any questions, feel free to leave a comment below my videos. I will respond to your queries as soon as possible. 
